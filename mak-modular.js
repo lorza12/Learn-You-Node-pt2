@@ -1,4 +1,4 @@
-const getFiles = require("./06-mymodule");
+const getFiles = require("./myModule");
 const path = require("path");
 
 
